@@ -1,4 +1,4 @@
-var React = require('react');
-var ReactDom = require('react-dom');
-
-ReactDom.render(<h1>Hello world！！！</h1>, document.body);
+import React from 'react'
+import ReactDom from 'react-dom'
+import Header from './Component/header'
+ReactDom.render(<Header/>, document.getElementById("page"));
