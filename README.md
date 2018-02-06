@@ -1,7 +1,9 @@
 # react-create
 使用npm、webpack搭建React开发环境（非React脚本架）
 
-简书地址：https://www.jianshu.com/p/8346da6c2e7f
+基本环境搭建简书地址：https://www.jianshu.com/p/8346da6c2e7f
+
+引入css模块化简书地址：https://www.jianshu.com/p/c6047662a39f
 
 在电脑全局环境配置好的情况下（具体配置参考简书地址，install -g的均为全局安装的部分），项目可以直接克隆。
 
